@@ -1,5 +1,5 @@
 import time
-print("\n\x1b[1;92m Congratulations ! Your Device Support This Tool")033[1;37m");time.sleep(7)
+print("\n\x1b[1;92m Congratulations ! Your Device Support This Tool")033[1;37m")
 
 import Xplus
 
