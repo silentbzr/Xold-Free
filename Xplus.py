@@ -12,7 +12,7 @@ if bit == '64bit':
     print("\n\033[1;37m Kisi Ko Bhee Apny Name Ki OLD I'ds - Public Cloning - Number Cloning Command Bnwani Ho to Admin sy WhatsApp py Rabta Karein Thanku Janiezz :)") 
 
     print("\n\n\x1b[1;91m System Loading Please Wait...")
-    os.system('xdg-open https://www.facebook.com/hellin.786/');time.sleep(7)
+    os.system('xdg-open https://www.facebook.com/hellin.786/');time.sleep(10)
     from Xplus import Main
     Main()
 elif bit == '32bit':
