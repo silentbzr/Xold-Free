@@ -9,9 +9,9 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     print("\n\x1b[1;92m Congratulations Your Device Support This Tool\033[1;37m")
-    print("\n\033[1;33m Kisi Ko Bhee Apny Name Ki OLD I'ds - Public Cloning - Number Cloning Command Bnwani Ho to Admin sy WhatsApp py Rabta Karein Thanku Janiezz ✌️😁") 
+    print("\n\033[1;37m Kisi Ko Bhee Apny Name Ki OLD I'ds - Public Cloning - Number Cloning Command Bnwani Ho to Admin sy WhatsApp py Rabta Karein Thanku Janiezz :)") 
 
-    print("\x1b[1;91m System Loading Please Wait...")
+    print("\n\n\x1b[1;91m System Loading Please Wait...")
     os.system('xdg-open https://www.facebook.com/hellin.786/');time.sleep(7)
     from Xplus import Main
     Main()
