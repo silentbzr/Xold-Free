@@ -13,7 +13,7 @@ print("\n\033[1;33m Kisi Ko Bhee Apny Name Ki OLD I'ds - Public Cloning - Number
     print("")
     print("\x1b[1;91m System Loading Please Wait...")
     os.system('xdg-open https://www.facebook.com/hellin.786/');time.sleep(7)
-    from Xplus
+    from Xplus import Main
     Main()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
